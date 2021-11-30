@@ -16,7 +16,7 @@ Used to set the network
 43114 Avalanche Mainnet
 */
 
-window.web3NetworkId = 1;
+window.web3NetworkId = 4;
 window.web3NetworkName = "rinkeby";
 window.infuraKey = "9aa3d95b3bc440fa88ea12eaa4456161";
 // window.infuraKey = "2d0062a43e9e4086829df115488b45a8"
