@@ -16,8 +16,8 @@ Used to set the network
 43114 Avalanche Mainnet
 */
 
-window.web3NetworkId = 97;
-window.web3NetworkName = "Binance Smart Chain Testnet";
-window.infuraKey = "https://data-seed-prebsc-1-s1.binance.org:8545/"; // "9aa3d95b3bc440fa88ea12eaa4456161";
+window.web3NetworkId = 56;
+window.web3NetworkName = "Binance Smart Chain Mainnet";
+window.infuraKey = "https://bsc-dataseed.binance.org/"; // "https://data-seed-prebsc-1-s1.binance.org:8545/"; // "9aa3d95b3bc440fa88ea12eaa4456161";
 // window.rpcUrl = { "97": "https://data-seed-prebsc-1-s1.binance.org:8545/" };
 // window.infuraKey = "2d0062a43e9e4086829df115488b45a8"
